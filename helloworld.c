@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("unko\n");
+  printf("HelloWorld"\n");
+  printf("tatata"\n");
   return 0;
 }
